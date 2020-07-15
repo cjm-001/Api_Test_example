@@ -1,0 +1,10 @@
+2019-09-09 15:28:00,758 - MusicCases - INFO - 35 - 开始测试
+2019-09-09 15:28:01,157 - MusicCases - INFO - 55 - 用例{case['title']}测试结果为：Fail
+2019-09-09 15:28:01,343 - MusicCases - INFO - 52 - 用例{case['title']}测试结果为：Pass
+2019-09-09 15:28:01,532 - MusicCases - INFO - 55 - 用例{case['title']}测试结果为：Fail
+2019-09-09 15:28:01,650 - MusicCases - INFO - 52 - 用例{case['title']}测试结果为：Pass
+2019-09-09 15:28:01,747 - MusicCases - INFO - 52 - 用例{case['title']}测试结果为：Pass
+2019-09-09 15:28:01,847 - MusicCases - INFO - 55 - 用例{case['title']}测试结果为：Fail
+2019-09-09 15:28:01,991 - MusicCases - INFO - 52 - 用例{case['title']}测试结果为：Pass
+2019-09-09 15:28:02,144 - MusicCases - INFO - 52 - 用例{case['title']}测试结果为：Pass
+2019-09-09 15:28:02,180 - MusicCases - INFO - 40 - 测试完成

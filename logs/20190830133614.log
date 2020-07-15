@@ -1,0 +1,13 @@
+2019-08-30 13:36:20,478 - MusicCases - INFO - 35 - 开始测试
+2019-08-30 13:36:21,152 - MusicCases - INFO - 55 - 用例正常请求测试结果为：Fail
+2019-08-30 13:36:21,318 - MusicCases - INFO - 52 - 用例start为空测试结果为：Pass
+2019-08-30 13:36:21,493 - MusicCases - INFO - 55 - 用例tag为空测试结果为：Fail
+2019-08-30 13:36:21,611 - MusicCases - INFO - 52 - 用例q为空测试结果为：Pass
+2019-08-30 13:36:21,687 - MusicCases - INFO - 52 - 用例tag和q都为空测试结果为：Pass
+2019-08-30 13:36:21,788 - MusicCases - INFO - 52 - 用例count为空测试结果为：Pass
+2019-08-30 13:36:22,024 - MusicCases - INFO - 52 - 用例q为英文测试结果为：Pass
+2019-08-30 13:36:22,165 - MusicCases - INFO - 52 - 用例datas为空测试结果为：Pass
+2019-08-30 13:36:22,196 - MusicCases - INFO - 40 - 测试完成
+2019-08-30 13:36:27,574 - send_email - INFO - 57 - 连接QQ邮箱smtp服务
+2019-08-30 13:36:27,856 - send_email - INFO - 59 - 连接成功
+2019-08-30 13:36:29,024 - send_email - INFO - 62 - 邮件发送成功
